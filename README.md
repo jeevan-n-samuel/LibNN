@@ -1,0 +1,2 @@
+# LibNN
+C++ Neural network
